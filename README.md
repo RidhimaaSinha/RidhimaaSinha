@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5F796&center=true&vCenter=true&width=560&lines=+++++++++++Hello%2C+I'm+Ridhimaa+Sinha)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14B8A6&center=true&vCenter=true&width=560&lines=+++++++++++Hello%2C+I'm+Ridhimaa+Sinha)](https://git.io/typing-svg)
 
 # 💫 About Me:
 I’m a Computer Science student aspiring to become a Software Engineer.<br>I build AI-powered full-stack applications to solve real-world problems and explore new technologies.
